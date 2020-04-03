@@ -1,0 +1,22 @@
+#apropos{
+    float: right;
+}
+#categorie{
+    display: inline-block;
+}
+#desc{
+    display: flex;
+}
+#tabCarac>table{
+    width: 100%;
+}
+#tabCarac td, #tabCarac th{
+    width: 50%;
+    border: 1px solid black;
+}
+.border{
+    border-bottom: 1px black solid;
+}
+.w50{
+    width: 50%;
+}
